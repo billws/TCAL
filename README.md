@@ -11,6 +11,7 @@
 
 
 ## Demo
+
 Here is a working live demo :  https://billws.github.io/TCAL/index.html
 
 
@@ -19,12 +20,15 @@ Here is a working live demo :  https://billws.github.io/TCAL/index.html
 ### User Interface
 
 The calculator is compatible with devices of all display sizes when you click Calculator button.
+
 ![](https://billws.github.io/TCAL/images/demo01.png)
 
 And you can move the calculator by drag & drop. 
+
 ![](https://billws.github.io/TCAL/images/demo02.png)
 
 Now, you can use the calculator.
+
 ![](https://billws.github.io/TCAL/images/demo03.png)
 
 Also, closing it when you click outside of the calculator.
@@ -39,6 +43,7 @@ Also, closing it when you click outside of the calculator.
 ![](https://billws.github.io/TCAL/images/demo04.png)
 
 #### Importance files
+
 - [action.js] - describe what's happening when user click four operations, number and decimal happening. 
 - [calculator.js] - this is calculator's ui which wrote by react.js. 
 - [calreducer.js] - Save the calculator's state. 
