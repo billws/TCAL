@@ -51,3 +51,8 @@ Also, closing it when you click outside of the calculator.
 - [style.scss] - cascading style sheets for the calculator and used the media and @mixin to apply different styles for different display width.
 
 
+
+## Improvement
+
+- Using memo or pure component to avoid re-render static components.
+- Testing redux and view components. 
